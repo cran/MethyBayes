@@ -1,0 +1,17 @@
+96a4cd3f40cf085b590d4bbd6f1e95ee *DESCRIPTION
+452fef0f50c71fb32866950d876e0fa9 *NAMESPACE
+25ab988f3a6379fc34c9ea4430fe300b *R/MethyBayes.R
+552b92891b08b0bfe0010596144a5d3c *R/data_doc.R
+ceb9ce02aa7e7424d8821d7867eacbc2 *R/likelihood.R
+3a398392a0afcd70b5547dc134063b1f *R/process.R
+dc43bc7841db34f33e517774979abc68 *R/seqdata.R
+e3fd6367ddd018f2d5e4cc7bcea26d2d *README.md
+96b84f347d42f216970d7af2ea446600 *data/case1.rda
+a7a7c1001ae384119d19ae3a53d397cc *data/case2.rda
+4ed65d199cef60f0bbed88d977197710 *data/control1.rda
+2c39cf9356b68656cf44e428e84ad140 *data/control2.rda
+5bb42c1bd83e0ecd2a3f767adaf04b8c *man/MethyBayes.Rd
+8f7946f957b8014e1a68f57cf4fd0c47 *man/demo_data.Rd
+345d6e7ce82938e2803a23390b08a0df *man/seqdata.Rd
+8dade55dc9960e41d122daea007e9ea4 *src/MethyBayes.f90
+c9b075b7285d04c6798016944f77e6e2 *src/func_register.c
